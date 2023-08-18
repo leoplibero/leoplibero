@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @leoplibero
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-leoplibero/leoplibero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Olá, sou Leonardo Paciencia, um estudante de Desenvolvimento de Sistemas.
+
+👀 Tenho um grande interesse em tecnologia e tudo o que envolve o mundo da programação e desenvolvimento de software.
+
+🌱 Atualmente, estou aprendendo os fundamentos da programação, lógica de programação, estruturas de dados e linguagens como Python e Java.
+
+💞️ Estou procurando oportunidades para colaborar em projetos relacionados a desenvolvimento web e aplicativos móveis.
+
+📫 Você pode entrar em contato comigo através do meu perfil GitHub, onde estou como @leoplibero. Estou ansioso para aprender e contribuir!
