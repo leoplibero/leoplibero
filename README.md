@@ -1,6 +1,6 @@
 # Olá, sou Leonardo Paciencia 👋
 
-Sou estudante de Desenvolvimento de Sistemas.
+Sou um Desenvolvedor FullStack e estudante de Ciências da Computação.
 Tenho um grande interesse em tecnologia e tudo o que envolve o mundo da programação e desenvolvimento de software.
 
 ![image](https://github.com/user-attachments/assets/1939ff6f-f644-4718-81b4-93ebbf7936ca)
